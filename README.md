@@ -32,4 +32,4 @@ comparepdsqds.py: plots qds/pds so you can see if there's any weird behaviour th
 kdTreecheck.py: checks that the number of sources per leaf in the kdTree isn't affecting the output of the results (everything's fine but kept it in the upload as might as well)
 
 
-The output of findingLR.py are the indices of the input catalogue that are matched and the associated dS and r's, acting as diagnostic tools. Not quite sure if everything works correctly yet (getting weird matches and negatives in qds). Haven't written 
+The output of findingLR.py are the indices of the input catalogue that are matched and the associated dS and r's, acting as diagnostic tools. Not quite sure if everything works correctly yet (getting weird matches and negatives in qds).
